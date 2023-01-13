@@ -1,6 +1,8 @@
 /**
  * 
  * @author genitori
+ * 
+ * ver 2
  *
  */
 public class FattorialeClass {
