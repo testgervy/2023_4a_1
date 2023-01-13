@@ -2,7 +2,7 @@
  * 
  * @author genitori
  * 
- * ver 2
+ * ver 3
  *
  */
 public class FattorialeClass {
